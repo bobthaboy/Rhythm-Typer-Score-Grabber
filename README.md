@@ -12,3 +12,7 @@ Paste that into user_id.txt
 Run run.bat
 
 After a few minutes, you'll get an output.csv that you should be able to import into spreadsheets.
+
+FAQ
+Q. I am getting "ModuleNotFoundError: No module named 'requests'".
+A. Run the requirements.bat once and it's gone forever.
